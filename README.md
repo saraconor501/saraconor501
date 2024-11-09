@@ -1,6 +1,5 @@
 
-![1478343969_tumblr_nzhg9qMpDD1ri8h0lo1_540](https://github.com/user-attachments/assets/55cc984f-96af-4758-96fc-61d23d81de66)
-
+![magic-spell-geralt-of-rivia](https://github.com/user-attachments/assets/8d8c5c77-6079-4aff-b0b2-ea22c1b0f795)
 
 <!--
 **saraconor501/saraconor501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,5 @@
-![1574171006_tumblr_6d77afeb4b28ce40c42fcd1039b433b0_95ce3a2f_540](https://github.com/user-attachments/assets/ade67b2e-d9af-4493-9818-ed3ade3fa0af)
+![1562004081_GlumCharmingKatydid-size_restricted](https://github.com/user-attachments/assets/b36dd2dd-e9d4-4278-9746-383fd3001d9e)
+
 
 
 <!--

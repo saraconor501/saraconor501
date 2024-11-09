@@ -1,5 +1,7 @@
-## Hi there 👋
-https://steamuserimages-a.akamaihd.net/ugc/761600649741345244/1E77B6E643BF88530BCA8CDAA3D961F0AF7ED8A5/?imw=512&amp;imh=243&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true
+
+![1478343969_tumblr_nzhg9qMpDD1ri8h0lo1_540](https://github.com/user-attachments/assets/55cc984f-96af-4758-96fc-61d23d81de66)
+
+
 <!--
 **saraconor501/saraconor501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

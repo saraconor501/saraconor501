@@ -1,5 +1,5 @@
 <div>
-  <img src='C:\Users\chyng\OneDrive\Изображения\Снимки экрана\1562004081_GlumCharmingKatydid-size_restricted.gif'/>
+  <img src='https://steamuserimages-a.akamaihd.net/ugc/1011527815303113550/E0D41E6A8172398D61972B5B6F1FF09FA59BD32A/?imw=512&amp;&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=false'/>
 </div>
 <div align="center">
   <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />

@@ -16,7 +16,7 @@
 
 
 
-<strong>Others</strong></p> <img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=Vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-black?style=for-the-badge&logo=&logoColor=blue"/>
+<strong>Others</strong></p> <img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=Vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-black?style=for-the-badge&logo=&logoColor=blue"/> <img src="https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=Firebase&logoColor=DD2C00"/>
 </div>
 
 

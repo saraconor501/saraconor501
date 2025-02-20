@@ -1,8 +1,8 @@
 <div align-center>
   <img src='https://steamuserimages-a.akamaihd.net/ugc/1011527815303113550/E0D41E6A8172398D61972B5B6F1FF09FA59BD32A/?imw=512&amp;&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=false'/>
 
- <h1>Hello👋 my name is Chyngyz!</h1>
-
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=white&lines=Hello+my+name+is+Chyngyz+)](https://git.io/typing-svg)
 
 
   

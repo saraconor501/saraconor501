@@ -14,6 +14,8 @@
  <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=React&logoColor=blue"/>
  <img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=Vercel&logoColor=white"/>
  <img src="https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=Firebase&logoColor=DD2C00"/>
+  <img src="https://img.shields.io/badge/Npm-black?style=for-the-badge&logo=Npm&logoColor=CB3837"/>
+  <img src="https://img.shields.io/badge/yarn-black?style=for-the-badge&logo=yarn&logoColor=2C8EBB"/>
  </div>
 <div>
   <img src="https://img.shields.io/badge/Ant Design-black?style=for-the-badge&logo=Ant Design&logoColor=0170FE"/>

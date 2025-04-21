@@ -26,6 +26,6 @@
   <img src="https://img.shields.io/badge/yarn-black?style=for-the-badge&logo=yarn&logoColor=2C8EBB"/>
 </div>
 
-  <p><strong>Integration</strong></p>  <a href='https://t.me/Chykyyyy'><img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram&logoColor=ЦВЕТ ЛОГОТИПА"/></a>  <a href='https://steamcommunity.com/profiles/76561199712243874/'><img src="https://img.shields.io/badge/Steam-black?style=for-the-badge&logo=Steam&logoColor=white"/></a>
+  <p><strong>Integration</strong></p>  <a href='https://t.me/saraconor501/'><img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram&logoColor=ЦВЕТ ЛОГОТИПА"/></a>  <a href='https://steamcommunity.com/profiles/76561199712243874/'><img src="https://img.shields.io/badge/Steam-black?style=for-the-badge&logo=Steam&logoColor=white"/></a>
 
 
